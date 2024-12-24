@@ -54,7 +54,7 @@ This project analyzes the data from the T20 Cricket World Cup using SQL queries.
    - `out/not_out`: text
    - `match_id`: text
 
-Thank you for sharing the structure of the tables. With these tables, we can dive into multiple layers of cricket analytics, from individual player performance to team-level analysis. Here’s a set of popular cricket analytics questions that we could answer using these tables:
+With these tables, we can dive into multiple layers of cricket analytics, from individual player performance to team-level analysis. Here’s a set of popular cricket analytics questions that we could answer using these tables:
 
 ### 1. Player Performance Analysis
    - **What is the highest score achieved by each batsman in the tournament?**
